@@ -1,0 +1,160 @@
+.chatParent{
+     padding-bottom: 100px;
+}
+
+
+.chat-parent{
+     margin: auto;
+     margin-top: 80px;
+     border: 2px solid black;
+     border-radius: 10px;
+     width: 40%;
+     height: 200px;
+     box-shadow: 1px 1px 10px 5px rgba(255, 194, 194, 0.575);
+     background-image: linear-gradient(-225deg, #5D9FFF 0%, #B8DCFF 48%, #6BBBFF 100%);
+     padding: 20px;
+}
+
+.room-box{
+     box-shadow: 1px 1px 10px 1px rgba(111, 106, 106, 0.606);
+     margin-top: 30px !important;
+     border: 2px solid black;
+     height: 70px;
+     border-radius: 10px;
+     font-family: cursive;
+}
+
+.form-control{
+     margin: auto;
+    height: 50%;
+     width: 80%;
+     background-color: rgba(220, 218, 215, 0.709);
+}
+
+.roomBtn{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin: auto;
+     margin-top: 30px;
+     width: 200px;
+     height: 30px;
+     box-shadow: 1px 1px 10px 1px rgba(111, 106, 106, 0.781);
+}
+
+.chatBox-header{
+     display: flex;
+     align-items: center;
+     justify-content: space-around;
+     
+     background-color:  rgba(114, 166, 166, 0.511);
+     margin: auto;
+     margin-top: 5px;
+    
+     width: 95%;
+     height: 50px;
+     border-radius: 10px;
+     border: 2px solid black;
+}
+
+.bi-box-arrow-left{
+    cursor: pointer;
+}
+
+.bytnChatBox{
+     margin-left: 10px;
+     margin-right: 10px;
+}
+
+
+/*xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx chatBox  css*  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx*/
+
+
+
+
+
+
+
+.chat-box{
+
+     margin: auto;
+     margin-top: 10px;
+     border: 2px solid black;
+     border-radius: 10px;
+     width: 30%;
+     height: 550px;
+     box-shadow: 1px 1px 10px 5px rgba(80, 80, 80, 0.575);
+     background-image: linear-gradient(-225deg, #5D9FFF 0%, #B8DCFF 48%, #6BBBFF 100%);
+     padding: 10px;
+
+}
+
+.conversesions{
+     /* width: 90%; */
+/* background-color: #4f99cb; */
+
+overflow: auto;
+margin-left: 0px;
+box-shadow: 1px 1px 10px 5px rgba(255, 194, 194, 0.295);
+height: 90%;
+border-radius: 10px;
+/* border: 1px solid black; */
+}
+
+.use-Chat{
+     margin-left: 0px;
+     text-align: left;
+     margin-left: 5px;
+     margin-top: 5px;
+     font-size: large;
+     /* border: 1px solid black; */
+     padding: 5px;
+     padding-bottom: 10px;
+     border-radius: 5px;
+     width: 90%;
+     margin-top: 10px;
+     box-shadow: 1px 1px 9px 0px rgba(71, 69, 68, 0.88);
+     overflow-y:auto;
+     background-color:rgba(216, 208, 208, 0.422);
+}
+
+.user-chat-Name{
+     display: inline-block;
+     font-size:x-small;
+}
+
+.message-send-parent{
+     /* width: 95%; */
+     box-shadow: 1px 1px 10px 5px rgba(255, 0, 0, 0.559);
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     
+     width: 90%;
+     height: max-content;
+     /* margin: 20px ; */
+     margin-top: 15px;
+     background-color:rgb(43, 32, 32);
+     border-radius: 20px;
+}
+
+.form-control{
+     background-color: rgba(255, 255, 255, 0.783) !important;
+}
+
+.message-send{
+     margin-right: 2px !important;
+     margin-left: 1px !important;
+     border-radius: 20px;
+     width: 100%;
+}
+.bi-send{
+    
+     color: rgb(227, 117, 62);
+     border-radius: 10px;
+     cursor: pointer;
+     width: 40px;
+     height: 30px;
+     margin-right: 5px;
+     background-color: rgba(204, 204, 204, 0.387);
+}

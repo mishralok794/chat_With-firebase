@@ -1,0 +1,14 @@
+.parent-header{
+     text-align: center;
+     padding: 5px;
+     color: rgb(253, 108, 108);
+     font-size: xx-large;
+     font-family: cursive;
+     margin-top: 20px;
+     border-radius: 10px;
+     width: 100%;
+     height: 60px;
+     border: 2px solid black;
+     background-color: rgba(120, 120, 120, 0.469);
+}
+
